@@ -13,3 +13,4 @@
 * [A Collection of Small Python 3 Projects](https://github.com/searles9/Python_Projects)
 * [AWS Quote App](https://github.com/searles9/Quote_App)
 * [EFS and EC2 Terraform Deployment](https://github.com/searles9/EFS_on_EC2)
+* [Small Website Deployed with CloudFormation](https://github.com/searles9/Get_Promotional_Content_AWS_Web_App)
