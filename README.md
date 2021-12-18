@@ -11,7 +11,7 @@
 * [Small Website Deployed with CloudFormation](https://github.com/searles9/Get_Promotional_Content_AWS_Web_App)
 
 ### Study Notes
-* [STILL IN PROGRESS - Python Data Structures and Algorithms]()
+* [STILL IN PROGRESS - Python Data Structures and Algorithms](https://github.com/searles9/Learn_Python_Data_Structures_and_Algorithms_Notes)
 * [Learn Python Notes](https://github.com/searles9/Learn_Python_Notes)
 * [Learn Python Best Practices Notes](https://github.com/searles9/Learn_Python_Best_Practices)
 * [Learn Shell Scripting Notes](https://github.com/searles9/Learn_Shell_Scripting_Notes)
