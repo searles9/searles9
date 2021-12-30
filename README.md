@@ -13,7 +13,7 @@
   * Services used: EFS, EC2, VPC, Terraform IAC
 * [Small Website Deployed with CloudFormation](https://github.com/searles9/Get_Promotional_Content_AWS_Web_App)
   * Services used: S3, SES, Lambda, API Gateway, CloudFormation IAC
-* [Cox Job Site Web Scraper](https://github.com/searles9/Web_Scrape_Cox_Jobs)
+* [Cox Job Site Python Web Scraper](https://github.com/searles9/Web_Scrape_Cox_Jobs)
   * Web scraping with Python, email with Python, Pandas library
 
 ### Study Notes
