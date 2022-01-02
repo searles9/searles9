@@ -18,6 +18,7 @@
 
 ### Study Notes
 * [STILL IN PROGRESS - Python Data Structures and Algorithms](https://github.com/searles9/Learn_Python_Data_Structures_and_Algorithms_Notes)
+* [STILL IN PROGRESS - Python Coding Guidelines, Tooling, Unit Testing and Packages](https://github.com/searles9/Learn_Python_Coding_Guidelines)
 * [Learn - Python Notes](https://github.com/searles9/Learn_Python_Notes)
 * [Learn - Python Best Practices Notes](https://github.com/searles9/Learn_Python_Best_Practices)
 * [Learn - Testing Python Code Notes](https://github.com/searles9/Learn_Testing_Python_Code)
