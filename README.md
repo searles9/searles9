@@ -6,7 +6,7 @@
 ### Highlighted Projects
 * [Autoscaling EC2 and VPC Terraform Deployment](https://github.com/searles9/VPC_and_EC2_Terraform_Deployment)
   * Services used: EC2, VPC, SNS, Terraform IAC
-* [A Collection of Small Python 3 Projects](https://github.com/searles9/Python_Projects)
+* [A Collection of Small (somewhat messy) Python 3 Projects](https://github.com/searles9/Python_Projects)
 * [AWS Quote App Terraform Deployment](https://github.com/searles9/Quote_App)
   * Services used: DynamoDB, API Gateway, S3, Cloudwatch, Lambda, Terraform IAC
 * [EFS and EC2 Terraform Deployment](https://github.com/searles9/EFS_on_EC2)
