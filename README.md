@@ -14,7 +14,7 @@
 * [Small Website Deployed with CloudFormation](https://github.com/searles9/Get_Promotional_Content_AWS_Web_App)
   * Services used: S3, SES, Lambda, API Gateway, CloudFormation IAC
 * [Python Web Scraper - Cox Job Site](https://github.com/searles9/Web_Scrape_Cox_Jobs)
-  * Web scraping with Python, email with Python, Pandas library
+  * Web scraping with Python, email with Python, Pandas library, unittest, makefile, github actions, CI/CD
 
 ### Study Notes
 * [Learn - Python Coding Guidelines, Tooling, Unit Testing and Packages](https://github.com/searles9/Learn_Python_Coding_Guidelines)
