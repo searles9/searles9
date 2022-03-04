@@ -22,3 +22,4 @@
 * [Learn - Python Best Practices Notes](https://github.com/searles9/Learn_Python_Best_Practices)
 * [Learn - Testing Python Code Notes](https://github.com/searles9/Learn_Testing_Python_Code)
 * [Learn - Shell Scripting Notes](https://github.com/searles9/Learn_Shell_Scripting_Notes)
+* [IN PROGRESS - Learn - Python Data Structures and Algorithms](https://github.com/searles9/Learn_Python_Data_Structures_and_Algorithms)
