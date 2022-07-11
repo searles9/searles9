@@ -6,6 +6,8 @@
 ### Highlighted Projects
 * [Inventory Web App with an API and Backend Database](https://github.com/searles9/Inventory_App)
   * Technologies: Javascript, Node, Express.js, SQLITE3, Bash Scripting
+* [Python Web Scraper - Cox Job Site](https://github.com/searles9/Web_Scrape_Cox_Jobs)
+  * Web scraping with Python, email with Python,  Unittest, Makefile, Github Actions, CI/CD, Pandas library
 * [Autoscaling EC2 and VPC Terraform Deployment](https://github.com/searles9/VPC_and_EC2_Terraform_Deployment)
   * Services used: EC2, VPC, SNS, Terraform IAC
 * [A Collection of Small (somewhat messy) Python 3 Projects](https://github.com/searles9/Python_Projects)
@@ -15,8 +17,6 @@
   * Services used: EFS, EC2, VPC, Terraform IAC
 * [Small Website Deployed with CloudFormation](https://github.com/searles9/Get_Promotional_Content_AWS_Web_App)
   * Services used: S3, SES, Lambda, API Gateway, CloudFormation IAC
-* [Python Web Scraper - Cox Job Site](https://github.com/searles9/Web_Scrape_Cox_Jobs)
-  * Web scraping with Python, email with Python,  Unittest, Makefile, Github Actions, CI/CD, Pandas library
 
 ### Study Notes
 * [Learn - Python Coding Guidelines, Tooling, Unit Testing and Packages](https://github.com/searles9/Learn_Python_Coding_Guidelines)
