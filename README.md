@@ -4,6 +4,8 @@
 -->
 
 ### Highlighted Projects
+* [Inventory Web App with an API and Backend Database](https://github.com/searles9/Inventory_App)
+  * Technologies: Javascript, Node, Express.js, SQLITE3, Bash Scripting
 * [Autoscaling EC2 and VPC Terraform Deployment](https://github.com/searles9/VPC_and_EC2_Terraform_Deployment)
   * Services used: EC2, VPC, SNS, Terraform IAC
 * [A Collection of Small (somewhat messy) Python 3 Projects](https://github.com/searles9/Python_Projects)
@@ -22,5 +24,3 @@
 * [Learn - Python Best Practices Notes](https://github.com/searles9/Learn_Python_Best_Practices)
 * [Learn - Testing Python Code Notes](https://github.com/searles9/Learn_Testing_Python_Code)
 * [Learn - Shell Scripting Notes](https://github.com/searles9/Learn_Shell_Scripting_Notes)
-* [IN PROGRESS - Learn - Python Data Structures and Algorithms](https://github.com/searles9/Learn_Python_Data_Structures_and_Algorithms)
-* [IN PROGRESS - Learn - JavaScript Basics](https://github.com/searles9/Learn_JavaScript_Basics)
