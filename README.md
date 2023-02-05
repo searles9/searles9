@@ -24,3 +24,7 @@
 * [Learn - Python Best Practices Notes](https://github.com/searles9/Learn_Python_Best_Practices)
 * [Learn - Testing Python Code Notes](https://github.com/searles9/Learn_Testing_Python_Code)
 * [Learn - Shell Scripting Notes](https://github.com/searles9/Learn_Shell_Scripting_Notes)
+
+### Small Projects - Full Stack Software Engineer
+* [Basic HTML CSS](https://github.com/searles9/Basic_HTML_CSS_Project)
+* [CSS Style Guide Page](https://github.com/searles9/CSS_Style_Guide)
