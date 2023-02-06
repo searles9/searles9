@@ -28,3 +28,4 @@
 ### Small Projects - Full Stack Software Engineer
 * [Basic HTML CSS](https://github.com/searles9/Basic_HTML_CSS_Project)
 * [CSS Style Guide Page](https://github.com/searles9/CSS_Style_Guide)
+* [Flexbox Tea Cozy Company Website](https://github.com/searles9/Flexbox_Tea_Shop_Website)
