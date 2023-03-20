@@ -30,3 +30,4 @@
 * [CSS Style Guide Page](https://github.com/searles9/CSS_Style_Guide)
 * [Flexbox Tea Cozy Company Website](https://github.com/searles9/Flexbox_Tea_Shop_Website)
 * [Flexbox Company Home Page](https://github.com/searles9/Flexbox_Company_Home_Page)
+* [JavaScript Classes](https://github.com/searles9/JavaScript_Classes)
