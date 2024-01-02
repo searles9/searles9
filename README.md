@@ -19,6 +19,7 @@
   * Services used: S3, SES, Lambda, API Gateway, CloudFormation IAC
 
 ### Study Notes
+* [IN PROGRESS: Learn - React.js](https://github.com/searles9/ReactCourseNotes)
 * [Learn - React Native](https://github.com/searles9/ReactNativeCourseNotes)
 * [Learn - Python Coding Guidelines, Tooling, Unit Testing and Packages](https://github.com/searles9/Learn_Python_Coding_Guidelines)
 * [Learn - Python Notes](https://github.com/searles9/Learn_Python_Notes)
