@@ -4,6 +4,8 @@
 -->
 
 ### Highlighted Projects
+* [CV Resume Website](https://github.com/searles9/CV)
+  * React SPA hosted in GitHub pages. HTML, CSS, Flexbox, CSS modules 
 * [Inventory Web App with an API and Backend Database](https://github.com/searles9/Inventory_App)
   * Technologies: Javascript, Node, Express.js, SQLITE3, Bash Scripting
 * [Python Web Scraper - Cox Job Site](https://github.com/searles9/Web_Scrape_Cox_Jobs)
@@ -19,7 +21,7 @@
   * Services used: S3, SES, Lambda, API Gateway, CloudFormation IAC
 
 ### Study Notes
-* [IN PROGRESS: Learn - React.js](https://github.com/searles9/ReactCourseNotes)
+* [Learn - React.js](https://github.com/searles9/ReactCourseNotes)
 * [Learn - React Native](https://github.com/searles9/ReactNativeCourseNotes)
 * [Learn - Python Coding Guidelines, Tooling, Unit Testing and Packages](https://github.com/searles9/Learn_Python_Coding_Guidelines)
 * [Learn - Python Notes](https://github.com/searles9/Learn_Python_Notes)
@@ -35,4 +37,3 @@
 * [JavaScript Classes](https://github.com/searles9/JavaScript_Classes)
 * [JavaScript Tests with Mocha and Assert](https://github.com/searles9/JavaScript_Tests_Mocha)
 
-[comment]: # (Promises and Async and Await)
