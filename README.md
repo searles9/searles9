@@ -5,7 +5,7 @@
 
 ### Highlighted Projects
 * [CV Resume Website](https://github.com/searles9/CV)
-  * React SPA hosted in GitHub pages. HTML, CSS, Flexbox, CSS modules 
+  * React SPA hosted on GitHub pages. HTML, CSS, Flexbox, CSS modules 
 * [Inventory Web App with an API and Backend Database](https://github.com/searles9/Inventory_App)
   * Technologies: Javascript, Node, Express.js, SQLITE3, Bash Scripting
 * [Python Web Scraper - Cox Job Site](https://github.com/searles9/Web_Scrape_Cox_Jobs)
