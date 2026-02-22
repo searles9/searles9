@@ -8,5 +8,5 @@
 ### Highlighted Projects
 * [MePicky](https://mepicky.com/)
   * Status: Currently developing 
-  * Description: Track your food preferences
+  * Description: Track and share your food preferences
   * Tech Stack: Next.js (deployed to Vercel), Clerk auth, NeonDB (PostgreSQL database)
