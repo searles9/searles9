@@ -5,3 +5,8 @@
 
 > **Note:** I recently removed many older repositories that I no longer maintain. I’ll be adding new and interesting projects soon. <br> Also worth noting: most of my larger projects currently live in private repositories.
 
+### Highlighted Projects
+* [MePicky](https://mepicky.com/)
+  * Status: Currently developing 
+  * Description: Track your food preferences
+  * Tech Stack: Next.js (deployed to Vercel), Clerk auth, NeonDB (PostgreSQL database)
