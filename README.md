@@ -7,7 +7,7 @@
 
 ### Highlighted Projects
 * [MePicky](https://mepicky.com/)
-  * Status: Currently developing 
+  * Status: MVP released, currently developing 
   * Description: Track and share your food preferences
   * Tech Stack:
     * Next.js (deployed to Vercel)
