@@ -7,7 +7,7 @@
 
 ### Highlighted Projects
 * [MePicky](https://mepicky.com/)
-  * Status: MVP released, I currently have a small user base
+  * Status: I currently have a small user base
   * Description: Track and share your food preferences
   * Tech Stack:
     * Next.js (deployed to Vercel)
@@ -15,3 +15,4 @@
     * NeonDB (PostgreSQL database)
     * Drizzle (orm)
     * SWR from Vercel (data fetching) 
+    * Vercel AI Gateway
