@@ -7,7 +7,7 @@
 
 ### Highlighted Projects
 * [MePicky](https://mepicky.com/)
-  * Status: I currently have a small user base
+  * Status: I currently have a small growing user base
   * Description: Track and share your food preferences
   * Tech Stack:
     * Next.js (deployed to Vercel)
